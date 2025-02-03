@@ -1,1 +1,1 @@
-# streetster
+# Репозиторрий для проекта streetster
